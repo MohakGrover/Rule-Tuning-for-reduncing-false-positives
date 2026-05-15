@@ -14,8 +14,8 @@ This project demonstrates how to reduce excessive alerts and false positives in 
 - Show improvement before and after tuning
 
 ## Files Included
-- `local.rules` → Custom detection rules
-- `threshold.config` → Suppress and Threshold rules
+- [local-rules](suricata-rules-tuning/rules/local.rules) → Custom detection rules
+- [threshold.config-file](suricata-rules-tuning/config/threshold.config) → Suppress and Threshold rules
 - `CA_Report.pdf` → Final report with screenshots
 
 ## Author
